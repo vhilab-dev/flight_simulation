@@ -31,8 +31,7 @@ public class flight : MonoBehaviour
     private bool isSuperman = true; //Determines whether user flies as superman or ironman. Press 's' to switch.
     private bool canStart = false;
     private float timeLeft = 50.0f;
-    private bool flipped = true;
-    private float multiplier = -1.5f;
+  
     // Start is called before the first frame update
     void Start()
     {

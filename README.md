@@ -9,4 +9,6 @@ If the user wishes to fly as ironman, they can then press 's' after the instruct
 To change the flight experience, the bulk of the code for the flying is found in flight.cs in the assets folder. 
 The additional script, instructions.cs, details the cues for when the instructions are voiced over. 
 
+The scene currently used is called Windredge City Scene. There are some other city models without textures added yet in the sample scene. 
+
 Voicings are done by Matt Shimura. 
